@@ -18,6 +18,7 @@ Calculate the percentage of PHEVs relative to the total number of electric vehic
 
 
  Charts Requirement
+ 
 1.Total Vehicles by Model Year (From 2010 Onwards):
    Visualization: Line/ Area Chart
    Description: This chart will illustrate the distribution of electric vehicles over the years, starting from 2010, providing insights into the growth pattern and adoption trends.
