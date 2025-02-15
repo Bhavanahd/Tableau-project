@@ -35,5 +35,5 @@ Calculate the percentage of PHEVs relative to the total number of electric vehic
 2. Description: Illustrate the proportion of electric vehicles that are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, aiding in understanding the impact of incentives on vehicle adoption.
 
 5. Total Vehicles by Model:
-1. Visualization: Grid View
+1. Visualization: Grid View 
 2. Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
